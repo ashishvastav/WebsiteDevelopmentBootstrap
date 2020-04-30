@@ -1,0 +1,31 @@
+.bgImg {
+    background-image: url(Bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-filter: blur(7px) !important;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+.imgBtn {
+    position: absolute;
+    top: 65%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
+
+.imgBtnOne {
+    position: absolute;
+    top: 65%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
